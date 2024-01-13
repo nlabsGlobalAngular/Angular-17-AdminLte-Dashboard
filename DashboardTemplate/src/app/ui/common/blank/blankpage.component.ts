@@ -7,7 +7,7 @@ import { Component, Input } from '@angular/core';
   templateUrl: './blankpage.component.html',
   styleUrl: './blankpage.component.css'
 })
-export class BlanpageComponent {
+export class BlankpageComponent {
   @Input() title: string = "";
   @Input() address1: string = "";
 
