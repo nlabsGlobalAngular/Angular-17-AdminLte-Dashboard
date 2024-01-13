@@ -37,6 +37,7 @@ https://github.com/ColorlibHQ/AdminLTE/archive/refs/tags/v3.2.0.zip
 - build
 - dist
 - plugins
+- eger ki kullanacagınız tarih'te ilgili temayı bulamazsanız zip halini projeye dahil ettim.
 - bu klasörler assets klasörüne atılmak zorundadır.
 
 4. Gerekli bağımlılıkları yükleyin:
