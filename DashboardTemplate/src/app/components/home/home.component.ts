@@ -1,10 +1,10 @@
 import { Component } from '@angular/core';
-import { BlanpageComponent } from '../../ui/common/blank/blankpage.component';
+import { BlankpageComponent } from '../../ui/common/blank/blankpage.component';
 
 @Component({
   selector: 'app-home',
   standalone: true,
-  imports: [BlanpageComponent],
+  imports: [BlankpageComponent],
   templateUrl: './home.component.html',
   styleUrl: './home.component.css'
 })
